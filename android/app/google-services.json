@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846722909235",
+    "project_id": "react-native-app-firebase-inte",
+    "storage_bucket": "react-native-app-firebase-inte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846722909235:android:f01fcc21603e546ca5cf46",
+        "android_client_info": {
+          "package_name": "com.firebase_integration_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846722909235-orkpo6n17iuu1v66d4vf5jqb78pa777h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5k_n08b9I1T_vOWRpA6MALy1pEC0SK2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846722909235-orkpo6n17iuu1v66d4vf5jqb78pa777h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
